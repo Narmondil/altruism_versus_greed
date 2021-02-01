@@ -1,2 +1,8 @@
-# altruism_versus_greed
-This repository contains a NetLogo model on altruistic behaviour.
+# IA961_MAS_project
+
+## Userguide
+- Launch NetLogo
+- Go to File > Open
+- Select "altruism.nlogo"
+- Choose parameters based on "Information" section
+- Click "go" to launch the simulation
